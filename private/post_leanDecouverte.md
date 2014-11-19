@@ -1,0 +1,21 @@
+# Une Lean découverte
+
+*Running lean - Lean canvas - Lean -* un outil, une méthode, des concepts qui ne me sont pas totalement inconnus, cependant encore assez flous et bancals. La formation [Trampolean](http://www.trampolean.fr/)  fut donc tout à fait opportune pour éclaircir le sujet. 
+J'arrive le jeudi sur Montpellier pour participer à mon premier atelier formation. Le rendez-vous est  donné à 9h autour d'un café, de croissants et de post-its. À peine commencé et nous sommes projetés dans le futur: *"Comment était cette formation ?"* Les plus, les moins. Ça y est c'est fait nos peurs et nos envies sont laissées sur les post-its, collés sur la baie vitrée. On peut commencer plus léger.  Chacun présente son projet. Peu importe, aucune consigne n'est donnée, juste un projet, une idée à développer en *Running-lean*.
+
+
+### "Voir disparaître les verrières qui me séparent du monde" (Henry Miller a propos de l'acte d'écrire).
+
+L'idée d'un projet web peut mûrir isolée de son public et apparaître telle quelle sur le net. Elle correspond ou pas, mais elle est là. Pour la réaliser il aura fallu analyser la concurrence, étudier le marché, réaliser des benchmarks, investir dans de la pub, consacrer du  temps, du travail et de l'énergie, beaucoup d'énergie. Imaginons qu'il soit possible de réaliser ce projet avec les premiers concernés, c'est à dire les utilisateurs. Et que ça soit plus simple, plus agréable et moins douloureux. Ne pas prendre la place de l'utilisateur mais s'immerger avec lui. Oser être surpris, s'étonner. Se frotter à son utilisation, ses pratiques, ses problèmes, sa réalité, son quotidien, son environnement et ses contraintes. Qui est il ? Définir le public, puis en désigner 10, mettre un nom sur les 10 premiers utilisateurs. Comment les trouver ?  En se concentrant sur l'utilité première du projet. 
+
+### Ne pas délaisser l'esquisse pour le tableau, le projet pour le seul objet.
+
+C'est en s'interrogeant sur les difficultés rencontrées par les usagers que l'on est le plus à même d'y répondre. Il s'agit de trouver les 3 principaux problèmes auxquels se heurtent aujourd'hui les futurs utilisateurs. *"Aujourd'hui"* car il question de rester au présent.
+ Nous ne sommes pas dans une projection à long terme mais dans une réponse juste et imminente. Le but est de trouver la solution utile, celle qui répondra aux problèmes. Ne pas proposer un blouson de ski si ce qui est souhaité est un imperméable. Il n'est pas question de soumettre un substitut mais de chercher exactement ce qui convient. Ne pas faire du prêt-à-porter mais du sur mesure et de le tailler le mieux possible. Pour cela nous avançons à tâtons. 
+ 
+ ### "Faut-il attendre d'être vaincu pour changer ?" (Proverbe Dogon)
+ 
+ Pour confectionner son vêtement, le tailleur prend les mesures, fait un patron, épingle le tissu, bâtit son costume avant de le coudre. Ces différentes étapes permettent de rectifier, d'accorder voire de modifier. De la même manière, *Running lean* donne la possibilité de vérifier chaque palier de la réalisation. Comme l'esquisse fait mûrir l’œuvre, les interviews nourrissent le projet. Elles l'ajustent. Il est testé aux différentes phases de construction. Si échec il y a, celui-ci ne peut être que de petite taille, sans grande importance. L'erreur n'est plus douloureuse mais au contraire elle devient salvatrice. Par ce jeu de feed-back le projet est assuré par un filet de sécurité constant. 
+ 
+  La journée se termine sur les interviews. Nous en avons tous réalisée au moins une, plus ou moins réussie mais l’expérience est là et les dés sont lancés. On va de l'avant avec de nouvelles notions  plein la tête et une grille Lean canvas bien remplie, qui n'attend qu'à  être vérifiée. Si le projet est poursuivi, l'ensemble des interviews réalisées et les solutions testées, d'ici 8 semaines nous tenons notre MVP (Minimum Viable Product). Le produit, l'application web minimale, celle qui est épurée de toute frivolité et qui répond de manière pertinente aux trois problèmes. L'atelier formation est terminé, le ballon de parole tourne encore de mains en mains. A tour de rôle nous apprécions notre journée et celle des autres. *"Le feed-back, c'est un lien entre le passé et le présent. C'est en quelque sorte le temps en circuit fermé." (Nam June Paik)* Le ballon tourne.
+
