@@ -11,7 +11,7 @@ Une nouvelle porte apparaît, c'est dans cette pièce que nous allons construire
 
 Nous nous emparons de l'outil bootstrap :
 
-`meteor add bootstrap`
+`meteor add mizzao:bootstrap-3
 
 On s'organise :
 
